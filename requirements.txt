@@ -13,7 +13,7 @@ transformers
 # torch or tensorflow as a deep learning framework for the models
 torch
 # or use tensorflow if preferred:
-# tensorflow
+tensorflow
 
 # Vector Database (optional, but good for large scale document comparison)
 # pinecone-client # Example for Pinecone, an external service
