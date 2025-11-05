@@ -28,6 +28,6 @@ tensorflow
 # Other utilities
 # python-dotenv for managing environment variables (API keys, etc.)
 # requests for web scraping if comparing against online content
-# beautifulsoup4 # For parsing HTML content if web scraping
+beautifulsoup4 # For parsing HTML content if web scraping
 # pymupdf or pdfminer.six for extracting text from PDF files
-# pymupdf
+pymupdf
