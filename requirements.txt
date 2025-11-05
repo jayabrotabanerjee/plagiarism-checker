@@ -1,0 +1,33 @@
+# Core NLP and Machine Learning Libraries
+# scikit-learn is used for TF-IDF vectorization and cosine similarity
+scikit-learn
+# numpy and pandas for data manipulation and numerical operations
+numpy
+pandas
+# NLTK or spaCy for text preprocessing (tokenization, stemming, etc.)
+nltk
+spacy
+# sentence-transformers or transformers for advanced embeddings using pre-trained models, essential for an LLM approach
+sentence-transformers
+transformers
+# torch or tensorflow as a deep learning framework for the models
+torch
+# or use tensorflow if preferred:
+# tensorflow
+
+# Vector Database (optional, but good for large scale document comparison)
+# pinecone-client # Example for Pinecone, an external service
+# chromadb # Example for an open-source, in-process option
+
+# Web Framework (optional, for building a web application interface)
+# Flask or Django are common choices
+# Flask
+# or
+# Django
+
+# Other utilities
+# python-dotenv for managing environment variables (API keys, etc.)
+# requests for web scraping if comparing against online content
+# beautifulsoup4 # For parsing HTML content if web scraping
+# pymupdf or pdfminer.six for extracting text from PDF files
+# pymupdf
